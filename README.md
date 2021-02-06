@@ -8,7 +8,7 @@ Welcome to my online portfolio for IASC-2P02
 
 ## Interactive Study Guide
 
-Explore my interactive study guide [here]().
+Explore my interactive study guide [here](Design Challenge 1.html).
 
 ## Interactive Genealogy
 
