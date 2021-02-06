@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Kathleen MacDonald - Digital Scholarship Portfolio
 
+Welcome to my online portfolio for IASC-2P02
 You can use the [editor on GitHub](https://github.com/kmacdonald80262/IASC-2P02/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
