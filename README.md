@@ -29,6 +29,7 @@ Explore my interactive genealogy [here]().
 
 ## Micro Essay
 
+In my story, the idea is that in a modern society, if iPods or music platforms were never invented the world could still function as normal with small changes regarding how we enjoy music, this makes sense because even in the 1800’s people were still able to enjoy music, it is just the media in which we enjoy it through that has changed and transformed. When David is going through normal everyday activities we see small changes where having old media work as new media is different. This is an instance of zombie media as music has just transformed into new media and found news ways to be listened to through new inventions and technology, but the premise of what music is, is still the same in its essence. Bruce Sterling said “a lot of dead media were actually zombie media: living dead that found an afterlife in new contexts, new hands, new screens and machines. My story shows how cd players and walkmans are zombie media as we have essentially just re-invented them into iPods and different forms of music players, not invented something completely new. This story invites critical thought about the past, present and future by demonstrating how old media can work in place of new media in a “new media” world. 
 
 # Interactive Timeline
 
