@@ -12,7 +12,7 @@ Explore my interactive study guide [here](InteractiveStudyGuide.html)
 
 ## Interactive Genealogy
 
-Explore my interactive genealogy [here]().
+Explore my interactive genealogy [here](InteractiveGenealogy.html)
 
 # Speculative Fiction
 
